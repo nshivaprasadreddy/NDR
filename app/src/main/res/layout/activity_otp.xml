@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nangi">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="10dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/ndr"
+            android:layout_marginBottom="15dp"
+            />
+
+
+        <EditText
+            android:id="@+id/otp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:paddingLeft="@dimen/padding_input_left"
+            android:layout_marginBottom="15dp"
+            android:hint="Enter otp."
+            android:background="@drawable/form"
+            android:inputType="phone"
+            android:maxLength="5"/>
+
+
+
+
+        <Button
+            android:id="@+id/otp_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:paddingTop="15dp"
+            android:gravity="center_horizontal"
+            android:text="Login"
+            android:background="@color/colorPrimary"/>
+    </LinearLayout>
+
+</RelativeLayout>

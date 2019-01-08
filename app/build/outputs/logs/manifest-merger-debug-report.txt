@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/86317182cd80a6159ac5fa260cf23720/AndroidManifest.xml:17:1-24:12
+MERGED from [pub.devrel:easypermissions:1.3.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/33117af52e8d79315df857fcd7c81376/AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.2] /Users/shiva/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.2.aar/bbff40e1048c41c33406dc05e77bc1e4/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e5b91851a244864cc972bd80a379631d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shiva/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1c40395778aeea8feeb9bbb1b25f2cbe/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/fac51046a3286a6ea97d73b693f98054/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1783aaa9acce38d274eda11b1a011410/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/59d3ff29ed318ca9a0c6f03e032038d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/05130178539ae34425313d39acf9e414/AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/shiva/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/25bd8c473b24fc72c2e14c2899c6a387/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6f14fb75a8261ca1889eaeea23b8a090/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f6ad47688d01d149159f75e95a28111/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c54507f8e3913cbe71ad9b94094842df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/87786daf453e04012bae0f60d94770a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/806c599f74a7a7214896029c507ce04f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1b3f632311e2dbf479e2bfb7ea025634/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9215c0447b9a542e32d8f6924eb32787/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e037d43aa593e3253a9c30f75ac2970c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/37f228141ca7558df2eba692f3d6b335/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bf4efb7ec65f53d957f529ec27c215f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8147014942d9ed11a16ceda267943733/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/87398b532d14db97bd030e8eebc8f50b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ed6b30aeb2629b1e6cc1e07853d5966b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3fbe0031e77920160c10c7373a6affcf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fcb99b5566d1c3962a54dc5a449fd98d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9f1560836325c396a9841703368152f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/03d321651d8ea009c5ed9d84bdd18ae6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/05a3edd3d30a5f7052a167fea83f8ecd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/72e61f54991c28ecee150de817104240/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/50f124255102f5139ca3970e3468c358/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5a3f4abe2e6e60fe3fc4dfbbbb053735/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/645817b3aad9087ca3e61809bc8a4df1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/044407fd01bf147e15fed632a4e50fb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/554d2dc8668500295653777c2a1b9459/AndroidManifest.xml:17:1-25:12
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/shiva/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/25bd8c473b24fc72c2e14c2899c6a387/AndroidManifest.xml:11:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/shiva/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/25bd8c473b24fc72c2e14c2899c6a387/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/shiva/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/25bd8c473b24fc72c2e14c2899c6a387/AndroidManifest.xml:12:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/shiva/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/25bd8c473b24fc72c2e14c2899c6a387/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:9:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:10:22-64
+application
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:12:5-35:19
+MERGED from [com.android.support:design:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/86317182cd80a6159ac5fa260cf23720/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/86317182cd80a6159ac5fa260cf23720/AndroidManifest.xml:22:5-20
+MERGED from [pub.devrel:easypermissions:1.3.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/33117af52e8d79315df857fcd7c81376/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.3.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/33117af52e8d79315df857fcd7c81376/AndroidManifest.xml:11:5-17:19
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.2] /Users/shiva/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.2.aar/bbff40e1048c41c33406dc05e77bc1e4/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.2] /Users/shiva/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.2.aar/bbff40e1048c41c33406dc05e77bc1e4/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shiva/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1c40395778aeea8feeb9bbb1b25f2cbe/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shiva/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1c40395778aeea8feeb9bbb1b25f2cbe/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/645817b3aad9087ca3e61809bc8a4df1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/645817b3aad9087ca3e61809bc8a4df1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/554d2dc8668500295653777c2a1b9459/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/554d2dc8668500295653777c2a1b9459/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/645817b3aad9087ca3e61809bc8a4df1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.gmail.hanivisushiva.ndr.MainActivity
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.gmail.hanivisushiva.ndr.Bottom
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:26:9-28:61
+	android:label
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:28:13-58
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:27:13-35
+activity#com.gmail.hanivisushiva.ndr.Detail
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:29:19-41
+activity#com.gmail.hanivisushiva.ndr.RegisterPage
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:30:9-50
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:30:19-47
+activity#com.gmail.hanivisushiva.ndr.Login_page
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:31:9-48
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:31:19-45
+activity#com.gmail.hanivisushiva.ndr.EditProfile
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:32:9-49
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:32:19-46
+activity#com.gmail.hanivisushiva.ndr.EventsDetail
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:33:19-47
+activity#com.gmail.hanivisushiva.ndr.Otp
+ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml:34:19-38
+uses-sdk
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/86317182cd80a6159ac5fa260cf23720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/86317182cd80a6159ac5fa260cf23720/AndroidManifest.xml:20:5-44
+MERGED from [pub.devrel:easypermissions:1.3.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/33117af52e8d79315df857fcd7c81376/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.3.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/33117af52e8d79315df857fcd7c81376/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.2] /Users/shiva/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.2.aar/bbff40e1048c41c33406dc05e77bc1e4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.2] /Users/shiva/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.2.aar/bbff40e1048c41c33406dc05e77bc1e4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e5b91851a244864cc972bd80a379631d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e5b91851a244864cc972bd80a379631d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shiva/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1c40395778aeea8feeb9bbb1b25f2cbe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shiva/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1c40395778aeea8feeb9bbb1b25f2cbe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/fac51046a3286a6ea97d73b693f98054/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/fac51046a3286a6ea97d73b693f98054/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1783aaa9acce38d274eda11b1a011410/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1783aaa9acce38d274eda11b1a011410/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/59d3ff29ed318ca9a0c6f03e032038d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/59d3ff29ed318ca9a0c6f03e032038d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/05130178539ae34425313d39acf9e414/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/05130178539ae34425313d39acf9e414/AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/shiva/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/25bd8c473b24fc72c2e14c2899c6a387/AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/shiva/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/25bd8c473b24fc72c2e14c2899c6a387/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6f14fb75a8261ca1889eaeea23b8a090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6f14fb75a8261ca1889eaeea23b8a090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f6ad47688d01d149159f75e95a28111/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f6ad47688d01d149159f75e95a28111/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c54507f8e3913cbe71ad9b94094842df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c54507f8e3913cbe71ad9b94094842df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/87786daf453e04012bae0f60d94770a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/87786daf453e04012bae0f60d94770a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/806c599f74a7a7214896029c507ce04f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/806c599f74a7a7214896029c507ce04f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1b3f632311e2dbf479e2bfb7ea025634/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1b3f632311e2dbf479e2bfb7ea025634/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9215c0447b9a542e32d8f6924eb32787/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9215c0447b9a542e32d8f6924eb32787/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e037d43aa593e3253a9c30f75ac2970c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e037d43aa593e3253a9c30f75ac2970c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/37f228141ca7558df2eba692f3d6b335/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/37f228141ca7558df2eba692f3d6b335/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bf4efb7ec65f53d957f529ec27c215f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bf4efb7ec65f53d957f529ec27c215f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8147014942d9ed11a16ceda267943733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8147014942d9ed11a16ceda267943733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/87398b532d14db97bd030e8eebc8f50b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/87398b532d14db97bd030e8eebc8f50b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ed6b30aeb2629b1e6cc1e07853d5966b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ed6b30aeb2629b1e6cc1e07853d5966b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3fbe0031e77920160c10c7373a6affcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3fbe0031e77920160c10c7373a6affcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fcb99b5566d1c3962a54dc5a449fd98d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fcb99b5566d1c3962a54dc5a449fd98d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9f1560836325c396a9841703368152f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9f1560836325c396a9841703368152f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/03d321651d8ea009c5ed9d84bdd18ae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/03d321651d8ea009c5ed9d84bdd18ae6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/05a3edd3d30a5f7052a167fea83f8ecd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/05a3edd3d30a5f7052a167fea83f8ecd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/72e61f54991c28ecee150de817104240/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/72e61f54991c28ecee150de817104240/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/50f124255102f5139ca3970e3468c358/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/50f124255102f5139ca3970e3468c358/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5a3f4abe2e6e60fe3fc4dfbbbb053735/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5a3f4abe2e6e60fe3fc4dfbbbb053735/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/645817b3aad9087ca3e61809bc8a4df1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/645817b3aad9087ca3e61809bc8a4df1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/044407fd01bf147e15fed632a4e50fb6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shiva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/044407fd01bf147e15fed632a4e50fb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/554d2dc8668500295653777c2a1b9459/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/554d2dc8668500295653777c2a1b9459/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shiva/AndroidStudioProjects/NDR/app/src/main/AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.3.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/33117af52e8d79315df857fcd7c81376/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.3.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/33117af52e8d79315df857fcd7c81376/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.3.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/33117af52e8d79315df857fcd7c81376/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.3.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/33117af52e8d79315df857fcd7c81376/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.3.0] /Users/shiva/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/33117af52e8d79315df857fcd7c81376/AndroidManifest.xml:13:13-86
